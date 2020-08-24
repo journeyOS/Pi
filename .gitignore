@@ -9,6 +9,7 @@ venv/*
 */*/*/__pycache__/*
 */*/*/*/__pycache__/*
 
+setupVars.conf
 adblock.hosts
 adblock.hosts-old
 /config/
